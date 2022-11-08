@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 rootProject.name = "TextViewApp"
 include ':app'
 include ':app'
+include ':app'
